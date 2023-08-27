@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello form $USER from script" 
+echo "Hello form script" 
